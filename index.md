@@ -4,7 +4,7 @@ title: Forkstep — Privacy policy
 
 # Forkstep — Privacy policy
 
-*Last updated: 21 November 2026.*
+*Last updated: 22 November 2026.*
 
 Forkstep is an app that shows what is in food, what activities burn, and
 body measures such as BMI. This policy says what happens to your
@@ -18,6 +18,13 @@ phone.**
   goal weight) and your settings are stored **only on your phone**, in the
   app's own storage. They are used only to work out the numbers you see.
 - **The caffeine log** is kept on your phone for 48 hours, then deleted.
+- **Family and prices**, if you add them: the names, ages, sex and
+  pregnancy of the people you cook for (You > Family), the prices you
+  type for foods, and a walking loop length. Stored only on your phone,
+  used only for the numbers you see, removed with the app.
+- **Pictures you share**: the share button makes a picture of a result
+  and opens your phone's own share menu. Nothing is sent unless you pick
+  an app and send it yourself.
 - **The meal check** is kept only while the app is open. It is never saved.
 - Nothing is stored anywhere else. Forkstep has **no account, no server, no
   analytics, no advertising and no crash reporting**. It does not send your
@@ -47,8 +54,9 @@ reminders are scheduled on your phone; nothing is sent anywhere.
 
 On the first launch on Android, Forkstep reads the country of your SIM card
 or mobile network (no permission needed) only to choose the starting
-language when your phone's language is not one the app has. It is not stored
-or sent anywhere.
+language (when your phone's language is not one the app has) and the daily
+targets of your country (Malaysia or Indonesia). The country is not stored
+or sent anywhere; you can change both in the app.
 
 ## Internet
 
